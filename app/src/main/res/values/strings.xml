@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Wonders of The world Story</string>
+    <string name="myName">M.Fathur Alim Ramadhan</string>
+    <string name="myEmail">fathuralimr@gmail.com</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string-array name="data_name">
+        <item></item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>kiana Kaslana</item>
+        <item>kiana Kaslana</item>
+        <item>kiana Kaslana</item>
+        <item>kiana Kaslana</item>
+        <item>kiana Kaslana</item>
+        <item>kiana Kaslana</item>
+        <item>kiana Kaslana</item>
+        <item>kiana Kaslana</item>
+        <item>kiana Kaslana</item>
+        <item>kiana Kaslana</item>
+        <item>kiana Kaslana</item>
+
+    </string-array>
+
+</resources>
